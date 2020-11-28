@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+  text-align: justify;
+}
+
+h3 {
+  padding: 3rem;
+}
+.justify {
+  text-align: justify;
+}
+
+.badge {
+  font-size: 1.3rem;
+  padding: 10px;
+}
